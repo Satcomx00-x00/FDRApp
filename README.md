@@ -1,2 +1,3 @@
 # FDRApp
-``` npm i --save-dev electron
+```
+ npm i --save-dev electron
